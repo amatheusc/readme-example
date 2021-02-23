@@ -36,14 +36,8 @@
     <li>
       <a href="#about-the-project">About The Project</a>
     </li>
-    <li>
-      <a href="#getting-started">Getting Started</a>
-      <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
-        <li><a href="#installation">Installation</a></li>
-      </ul>
-    </li>
     <li><a href="#usage">Usage</a></li>
+    <li><a href="#installation">Installation</a></li>
     <li><a href="#contributing">Contributing</a></li>
     <li><a href="#license">License</a></li>
   </ol>
@@ -68,24 +62,24 @@ This section should list any major frameworks that you built your project using.
 * Javascript
 * Django
 
-<!-- GETTING STARTED -->
-## Getting Started
 
-### Prerequisites
+<!-- USAGE EXAMPLES -->
+## Usage
 
-This is an example of how to list things you need to use the software and how to install them.
-* Install django
-  ```python
-  pip3 install django==3.1.5
-  ```
-* Você instalou a versão mais recente de <linguagem / dependência / requeridos>
-* Você tem uma máquina <Windows / Linux / Mac>. Indique qual sistema operacional é compatível / não compatível.
+Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
 
-### Installation
+_For more examples, please refer to the [Documentation](https://example.com)_
+
+<!-- INSTALATION -->
+## Installation
+Você tem uma máquina <Windows / Linux / Mac>. Indique qual sistema operacional é compatível / não compatível.
 
 #### 1. Install Python
 Install ```python-3.7.2``` and ```python-pip```. Follow the steps from the below reference document based on your Operating System.
 Reference: [https://docs.python-guide.org/starting/installation/](https://docs.python-guide.org/starting/installation/)
+```python
+  pip3 install django==3.1.5
+```
 
 #### 2. Install MySQL
 Install ```mysql-8.0.15```. Follow the steps form the below reference document based on your Operating System.
@@ -172,13 +166,6 @@ python manage.py runserver 0:8001
 Try opening [http://localhost:8001](http://localhost:8001) in the browser.
 Now you are good to go.
 
-<!-- USAGE EXAMPLES -->
-## Usage
-
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
-
-_For more examples, please refer to the [Documentation](https://example.com)_
-
 <!-- CONTRIBUTING -->
 ## Contributing
 
@@ -194,7 +181,7 @@ Contributions are what make the open source community such an amazing place to b
 <!-- LICENSE -->
 ## License
 
-Distributed under the MIT License. See `LICENSE` for more information.
+Distributed under the MIT License. See `LICENSE` [LICENSE](LICENSE.md) for more information.
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
