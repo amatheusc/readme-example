@@ -1,16 +1,18 @@
 <!-- PROJECT SHIELDS -->
-[![Contributors][contributors-shield]][contributors-url]
+![GitHub language count](https://img.shields.io/github/languages/count/iuricode/README-template?style=for-the-badge)
+![GitHub repo size](https://img.shields.io/github/repo-size/iuricode/README-template?style=for-the-badge)
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
-![GitHub repo size](https://img.shields.io/github/repo-size/iuricode/README-template?style=for-the-badge)
-![GitHub language count](https://img.shields.io/github/languages/count/iuricode/README-template?style=for-the-badge)
-![GitHub forks](https://img.shields.io/github/forks/iuricode/README-template?style=for-the-badge)
 ![Bitbucket open issues](https://img.shields.io/bitbucket/issues/iuricode/README-template?style=for-the-badge)
 ![Bitbucket open pull requests](https://img.shields.io/bitbucket/pr-raw/iuricode/README-template?style=for-the-badge)
+![GitHub forks](https://img.shields.io/github/forks/iuricode/README-template?style=for-the-badge)
+[![Contributors][contributors-shield]][contributors-url]
 
+<!--
+[![MIT License][license-shield]][license-url]
+[![LinkedIn][linkedin-shield]][linkedin-url]
+-->
 
 <!-- PROJECT LOGO -->
 <br />
@@ -75,10 +77,12 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 Você tem uma máquina <Windows / Linux / Mac>. Indique qual sistema operacional é compatível / não compatível.
 
 #### 1. Install Python
-Install ```python-3.7.2``` and ```python-pip```. Follow the steps from the below reference document based on your Operating System.
+Install ```python-3.7``` or higher and ```python-pip```. </br>
+Follow the steps from the below reference document based on your Operating System.
 Reference: [https://docs.python-guide.org/starting/installation/](https://docs.python-guide.org/starting/installation/)
+debian-based linux:
 ```python
-  pip3 install django==3.1.5
+  sudo apt install python3 && sudo apt install python-pip
 ```
 
 #### 2. Install MySQL
@@ -181,7 +185,7 @@ Contributions are what make the open source community such an amazing place to b
 <!-- LICENSE -->
 ## License
 
-Distributed under the MIT License. See `LICENSE` [LICENSE](LICENSE.md) for more information.
+Distributed under the MIT License. See [`LICENSE`](LICENSE) [LICENSE](LICENSE) for more information.
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
