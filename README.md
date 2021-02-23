@@ -4,6 +4,10 @@
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
+
+[issues-shield]: https://img.shields.io/github/issues/othneildrew/Best-README-Template.svg?style=for-the-badge
+[issues-url]: https://github.com/othneildrew/Best-README-Template/issues
+
 ![Bitbucket open issues](https://img.shields.io/bitbucket/issues/iuricode/README-template?style=for-the-badge)
 ![Bitbucket open pull requests](https://img.shields.io/bitbucket/pr-raw/iuricode/README-template?style=for-the-badge)
 ![GitHub forks](https://img.shields.io/github/forks/iuricode/README-template?style=for-the-badge)
@@ -78,9 +82,8 @@ Você tem uma máquina <Windows / Linux / Mac>. Indique qual sistema operacional
 
 #### 1. Install Python
 Install ```python-3.7``` or higher and ```python-pip```. </br>
-Follow the steps from the below reference document based on your Operating System.
-Reference: [https://docs.python-guide.org/starting/installation/](https://docs.python-guide.org/starting/installation/)
-debian-based linux:
+Follow the steps from the [reference document](https://docs.python-guide.org/starting/installation/) based on your Operating System.
+How to install on debian-based linux:
 ```python
   sudo apt install python3 && sudo apt install python-pip
 ```
