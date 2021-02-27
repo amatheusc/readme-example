@@ -1,3 +1,6 @@
+[![Python Version](https://img.shields.io/badge/python-3.6-brightgreen.svg?style=for-the-badge)](https://python.org)
+[![Django Version](https://img.shields.io/badge/django-2.0-brightgreen.svg)](https://djangoproject.com)
+
 <!-- PROJECT SHIELDS -->
 ![GitHub language count](https://img.shields.io/github/languages/count/iuricode/README-template?style=for-the-badge)
 ![GitHub repo size](https://img.shields.io/github/repo-size/iuricode/README-template?style=for-the-badge)
@@ -170,7 +173,7 @@ python manage.py runserver 0:8001
 
 # your server is up on port 8001
 ```
-Try opening [http://localhost:8001](http://localhost:8001) in the browser.
+The project will be available at [http://localhost:8001](http://localhost:8001) in the browser.
 Now you are good to go.
 
 <!-- CONTRIBUTING -->
