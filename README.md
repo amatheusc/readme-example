@@ -1,5 +1,11 @@
-[![Python Version](https://img.shields.io/badge/python-3.6-brightgreen.svg?style=for-the-badge)](https://python.org)
-[![Django Version](https://img.shields.io/badge/django-2.0-brightgreen.svg)](https://djangoproject.com)
+[![Python Version](https://img.shields.io/badge/python-3.9-brightgreen.svg?style=for-the-badge)](https://python.org)
+[![Django Version](https://img.shields.io/badge/django-3.15-brightgreen.svg)](https://djangoproject.com)
+[![Python Version](https://img.shields.io/badge/python-3.9-green.svg?style=for-the-badge)](https://python.org)
+[![Python Version](https://img.shields.io/badge/python-3.9-yes-green.svg?style=for-the-badge)](https://python.org)
+[![Python Version](https://img.shields.io/badge/python-3.9.svg?style=for-the-badge)](https://python.org)
+[![Python Version](https://img.shields.io/badge/python-3.9-1f425f.svg?style=for-the-badge)](https://python.org)
+
+
 
 <!-- PROJECT SHIELDS -->
 ![GitHub language count](https://img.shields.io/github/languages/count/iuricode/README-template?style=for-the-badge)
