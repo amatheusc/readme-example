@@ -1,9 +1,9 @@
 [![Python Version](https://img.shields.io/badge/python-3.9-brightgreen.svg?style=for-the-badge)](https://python.org)
 [![Django Version](https://img.shields.io/badge/django-3.15-brightgreen.svg)](https://djangoproject.com)
 [![Python Version](https://img.shields.io/badge/python-3.9-green.svg?style=for-the-badge)](https://python.org)
-[![Python Version](https://img.shields.io/badge/python-3.9-yes-green.svg?style=for-the-badge)](https://python.org)
-[![Python Version](https://img.shields.io/badge/python-3.9.svg?style=for-the-badge)](https://python.org)
 [![Python Version](https://img.shields.io/badge/python-3.9-1f425f.svg?style=for-the-badge)](https://python.org)
+[![Python Version](https://img.shields.io/badge/python-3.9-yellow.svg?style=for-the-badge)](https://python.org)
+[![Python Version](https://img.shields.io/badge/python-3.9-StrapDown.js.svg?style=for-the-badge)](https://python.org)
 
 
 
