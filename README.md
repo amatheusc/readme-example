@@ -3,7 +3,6 @@
 [![Python Version](https://img.shields.io/badge/python-3.9-green.svg?style=for-the-badge)](https://python.org)
 [![Python Version](https://img.shields.io/badge/python-3.9-1f425f.svg?style=for-the-badge)](https://python.org)
 [![Python Version](https://img.shields.io/badge/python-3.9-yellow.svg?style=for-the-badge)](https://python.org)
-[![Python Version](https://img.shields.io/badge/python-3.9-StrapDown.js.svg?style=for-the-badge)](https://python.org)
 
 
 
@@ -47,6 +46,7 @@
 <!-- TABLE OF CONTENTS -->
 <details open="open">
   <summary>Table of Contents</summary>
+  <br>
   <ol>
     <li>
       <a href="#about-the-project">About The Project</a>
@@ -167,7 +167,7 @@ EMAIL_PORT = 587
 ```
 #### 8. Run the server
 ```bash
-# Make migrations
+# Make migrations and create database
 python manage.py makemigrations
 python manage.py migrate
 
@@ -180,8 +180,6 @@ python manage.py runserver 0:8001
 # your server is up on port 8001
 ```
 The project will be available at [http://localhost:8001](http://localhost:8001) in the browser.
-Now you are good to go.
-
 <!-- CONTRIBUTING -->
 ## Contributing
 
